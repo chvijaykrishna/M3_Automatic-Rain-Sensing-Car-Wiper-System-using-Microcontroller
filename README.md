@@ -26,12 +26,16 @@ raindrop sensor with an AT89C51 Microcontroller
 
 Codiga
 
+![Codiga Score](https://api.codiga.io/project/33565/score/svg)
+
+![Codiga Grade](https://api.codiga.io/project/33565/status/svg)
 
 Codacy
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/89d39fde333b44488384e241a530080d)](https://www.codacy.com/gh/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller&amp;utm_campaign=Badge_Grade)
 
 ### Badges
 |Build CI-Linux|Build CI-Windows|Analysis|Unit Testing |Git Inspector| Cpp Check |
 |:--:|:--:|:--:|:--:|:--:| :--:|
-
+[![Build_CI - Linux](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/Linux.yml/badge.svg)](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/Linux.yml)|[![Bulid CI - windows](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/Windows.yml/badge.svg)](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/Windows.yml)|[![Analysis](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/analysis.yml)|[![Unit Testing - Unity](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/unit_test.yml/badge.svg)](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/unit_test.yml)|[![Git Inspector](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/git_insp.yml/badge.svg)](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/git_insp.yml)|[![Code Quality - Cppcheck](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chvijaykrishna/M3_Automatic-Rain-Sensing-Car-Wiper-System-using-Microcontroller/actions/workflows/c-cpp.yml)|
 
